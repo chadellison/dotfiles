@@ -3,7 +3,7 @@ Pry.config.color = true
 Pry.config.theme = "tomorrow"
 
 # === editor ===
-Pry.config.editor = "vim"
+Pry.config.editor = "atom"
 
 # === plugins ===
 begin
